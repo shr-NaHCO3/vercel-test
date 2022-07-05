@@ -1,0 +1,12 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "server.js",
+  "repository": "git@github.com:shr-NaHCO3/vercel-test.git",
+  "author": "shr-NaHCO3 <shrshr2@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.2.0"
+  }
+}
