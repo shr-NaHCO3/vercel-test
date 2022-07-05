@@ -12,4 +12,4 @@ fastify.listen(3000, (err, ad)=>{
         process.exit(1);
     }
     console.log('server is running')
-})
+}) 
